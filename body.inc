@@ -25,7 +25,7 @@
 					<div class="row">
 						<div class="4u">
 							<section class="special box">
-								<i class="icon fa-plane major"></i>
+								<i class="icon fa-cogs major"></i>
 								<h3>Welcome</h3>
                                 <p>FlightMaster is being developed for Android.
                                 We will be launching a free preview version (with limited
