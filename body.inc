@@ -1,52 +1,3 @@
-<!DOCTYPE HTML>
-<!--
-	Ion by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
-<html>
-	<head>
-<!-- Google Analytics Content Experiment code -->
-<script>function utmx_section(){}function utmx(){}(function(){var
-k='100556365-0',d=document,l=d.location,c=d.cookie;
-if(l.search.indexOf('utm_expid='+k)>0)return;
-function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script>utmx('url','A/B');</script>
-<!-- End of Google Analytics Content Experiment code -->
-		<title>FlightMaster - an Android VFR Navigation App for Pilots</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-61666504-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-xlarge.css" />
-		</noscript>
-	</head>
-	<body id="top">
-
 		<!-- Header -->
 			<header id="header" class="skel-layers-fixed">
             <!--<h1><a href="#">Ion</a></h1>-->
@@ -140,5 +91,3 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 					</div>
 				</div>
 			</section>
-	</body>
-</html>
